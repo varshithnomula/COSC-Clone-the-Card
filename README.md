@@ -1,3 +1,7 @@
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/0051747b-cba1-4c28-8863-288eb8534693)
+
 # 🛒 Amazon-Style Product Card Clone
 
 Recreate a modern Amazon-style product card using only **HTML** and **CSS**. This challenge helps you master layout techniques, shadows, flexbox, and styling precision without relying on JavaScript or frameworks.
@@ -21,10 +25,6 @@ Recreate a modern Amazon-style product card using only **HTML** and **CSS**. Thi
 - Price split into dollars and cents
 - Delivery info
 - Add to cart button with hover effect
-
-## 📸 Preview
-
-![image](https://github.com/user-attachments/assets/0051747b-cba1-4c28-8863-288eb8534693)
 
 ## 🚀 How to Use
 
